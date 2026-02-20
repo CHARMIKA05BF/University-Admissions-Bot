@@ -51,11 +51,12 @@ The primary objective of this project is to develop a user-friendly admissions a
 ## 📁 Project Structure
 University-Admissions-Bot/
 
-│── README.md
-
-│── admissions_bot.py
+University-Admissions-Bot/
+│── main.py
 
 │── data.json
+
+│── README.md
 
 │── requirements.txt
 
