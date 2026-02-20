@@ -1,0 +1,23 @@
+{
+  "Computer Science": {
+    "university": "State University",
+    "eligibility": "Minimum 60% in 12th grade with Mathematics.",
+    "documents": [
+      "10th Mark sheet",
+      "12th Mark sheet",
+      "Entrance Exam Score",
+      "Passport Size Photo"
+    ],
+    "deadline": "Jan 30, 2026"
+  },
+  "Business Administration": {
+    "university": "City College",
+    "eligibility": "Minimum 55% in 12th or equivalent.",
+    "documents": [
+      "10th Mark sheet",
+      "12th Mark sheet",
+      "Personal Statement"
+    ],
+    "deadline": "Feb 15, 2026"
+  }
+}
